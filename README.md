@@ -1,2 +1,2 @@
 # nicolache.github.io
-a test site on github
+Google search box.
